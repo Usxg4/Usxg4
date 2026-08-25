@@ -25,14 +25,13 @@
     <img src="https://skillicons.dev/icons?i=js,python,html,css,git,github,vscode" alt="Mis Habilidades" />
   </a>
 </p>
-
+---
+<p align="center">
+  <i>¡Construyendo mi camino en el desarrollo de software línea por línea!</i> ☕
+</p>
 ---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Usxg4/Usxg4/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Usxg4/Usxg4/output/github-snake.svg">
   <img alt="github snake animation" src="https://raw.githubusercontent.com/Usxg4/Usxg4/output/github-snake.svg">
 </picture>
----
-<p align="center">
-  <i>¡Construyendo mi camino en el desarrollo de software línea por línea!</i> ☕
-</p>
