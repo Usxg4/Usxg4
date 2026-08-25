@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&pause=1000&lines=¡Hola,+soy+Euliser!+👋;Estudiante+de+ADSO+en+el+SENA;Desarrollador+en+formación...;¡Bienvenido+a+mi+perfil!" alt="Typing Animation" />
+</h1>
 
-<!--
-**Usxg4/Usxg4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  ¡Apasionado por la tecnología, el código limpio y en constante aprendizaje! 🚀
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Sobre mí
+
+*   🎓 Estudiante del programa **Análisis y Desarrollo de Software (ADSO)** en el SENA.
+*   🌱 Profundizando mis bases en **JavaScript** (ciclos, condicionales, funciones) y **Python**.
+*   🔭 Desarrollando el diseño y análisis de requerimientos para el proyecto **SafeRoute EDU** en Medellín.
+*   🤖 Explorando el potencial de los frameworks de Inteligencia Artificial Generativa.
+
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+<p align="center">
+  <!-- Puedes agregar más herramientas directamente en la URL -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,python,html,css,git,github,vscode" alt="Mis Habilidades" />
+  </a>
+</p>
+
+---
+
+### 📊 Mis Estadísticas 
+
+> *Nota: ¡Estas tarjetas se actualizarán y animarán automáticamente cada vez que suba código nuevo!*
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_AQUI&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
+</p>
+
+---
+<p align="center">
+  <i>¡Construyendo mi camino en el desarrollo de software línea por línea!</i> ☕
+</p>
