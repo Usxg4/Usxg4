@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  ¡Apasionado por la tecnología, el código limpio y en constante aprendizaje! 🚀
+  ¡Apasionado por la tecnología, el código y en constante aprendizaje! 🚀
 </p>
 
 ---
