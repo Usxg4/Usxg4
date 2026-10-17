@@ -27,7 +27,7 @@
 </p>
 ---
 <p align="center">
-  <i>¡Construyendo mi camino en el desarrollo de software línea por línea!</i> ☕
+  <i>¡Construyendo mi camino en el desarrollo de software!</i> ☕
 </p>
 ---
 <picture>
