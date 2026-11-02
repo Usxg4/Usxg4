@@ -24,16 +24,6 @@
     <img src="https://skillicons.dev/icons?i=js,python,html,css,sql,git,github,vscode,powerbi" alt="Mis Habilidades" />
   </a>
 </p>
-
----
-
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Usxg4&include_all_commits=true&count_private=true&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usxg4&layout=compact&theme=radical&hide_border=true" />
-</p>
-
 ---
 
 <picture>
