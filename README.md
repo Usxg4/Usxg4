@@ -10,10 +10,17 @@
 
 ### 👨‍💻 Sobre mí
 
-*   🎓 Estudiante del programa **Análisis y Desarrollo de Software (ADSO)** en el SENA.
-*   🌱 Profundizando mis bases en **JavaScrip**, **Python** y bases de datos relacionales (**SQL**).
-*   🔭 Desarrollando el diseño y análisis de requerimientos para mis **Proyectos Personales**.
-*   🤖 Explorando el potencial de las herramientas y frameworks de **React**.
+* 🎓 Estudiante del programa **Análisis y Desarrollo de Software (ADSO)** en el SENA.
+* 🌱 Profundizando mis bases en **JavaScript**, **Python** y bases de datos relacionales (**SQL**).
+* 🔭 Desarrollando el diseño y análisis de requerimientos para mis **Proyectos Personales**.
+* 🤖 Explorando el potencial de las herramientas y frameworks de **React**.
+
+---
+
+### 🚀 Mis Proyectos
+
+* 🎯 [Mis Metas](https://github.com/Usxg4/My-Goals) - Metas personales y proyecto asignado para el reto de GitHub.
+* 🍳 [Mi Receta](https://github.com/Usxg4/My-Recipe) - Estructura y preparación de mi receta en Markdown.
 
 ---
 
@@ -24,6 +31,7 @@
     <img src="https://skillicons.dev/icons?i=js,python,html,css,sql,git,github,vscode,powerbi" alt="Mis Habilidades" />
   </a>
 </p>
+
 ---
 
 <picture>
