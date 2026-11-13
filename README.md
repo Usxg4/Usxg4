@@ -45,3 +45,5 @@
 <p align="center">
   <i>¡Construyendo mi camino en el desarrollo de software!</i> ☕
 </p>
+
+- 🎮 Mis hobbies: Jugar videojuegos y programar, ver peliculas, jugar futbol, estar con mi familia.
